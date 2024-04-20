@@ -1,5 +1,8 @@
 # Preface {.unnumbered}
 
 This is a Quarto book.
+$$
+\int x^{3} dx
+$$
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
